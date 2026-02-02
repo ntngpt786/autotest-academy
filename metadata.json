@@ -1,0 +1,8 @@
+
+{
+  "name": "AutoTest Academy",
+  "description": "A comprehensive automation testing practice platform featuring functional scenarios, locator labs, and an AI-powered testing assistant using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
